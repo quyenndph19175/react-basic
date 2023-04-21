@@ -68,3 +68,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+assets : nơi lưu trữ hình ảnh những cái muốn public out,
+components : nơi share components dùng nhiều nơi ( tái sủ dụng code)
+routes : định nghĩa các rowter
+store : 
+styles: viết scss
+utils : các func dùng chung
+services : gọi api đến backend
